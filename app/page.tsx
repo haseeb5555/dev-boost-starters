@@ -33,7 +33,7 @@ export default function Page() {
           </p>
           <Button size="lg" className="mt-8 bg-emerald-800" asChild>
             <Link
-              href="https://github.com/yourusername/your-repo"
+              href="https://github.com/haseeb5555/dev-boost-starters"
               target="_blank"
               rel="noopener noreferrer"
             >
