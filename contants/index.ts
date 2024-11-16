@@ -7,7 +7,7 @@ export const starterProjects=[
         category:"Frontend",
 
     },{
-        name:"Next js Landig Page",
+        name:"Next js Landing Page",
         description:"Next js Landing Page built with Tailwind CSS",
         url:"https://github.com/nobruf/shadcn-landing-page",
         creator:"nobruf",
