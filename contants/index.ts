@@ -8,9 +8,9 @@ export const starterProjects = [
     category: "Frontend",
   },
   {
-    name: "Medusa Starter",
-    description: "A starter project for Medusa, the headless commerce engine",
-    url: "https://github.com/medusajs/medusa",
+    name: "Medusa E-Commerce Starter",
+    description: "This monorepo serves as a starter template/example for building B2C e-commerce applications using Medusa, Nextjs and Sanity",
+    url: "https://github.com/tinloof/medusa-dtc-starter-munchies",
     creator: "Medusa",
     category: "Frontend",
   },
